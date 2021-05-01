@@ -10,7 +10,6 @@ import pydotplus
 from sklearn import tree
 from io import StringIO
 import pydot
-# from prices import price
 
 col_names = ['transmission', 'odometer', 'year', 'fuel_type', 'type', 'price']
 
